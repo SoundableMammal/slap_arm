@@ -33,7 +33,7 @@ streamlabs.on('event', eventData => {
 	default:
 	}
 
-	if (is_running === 0){ //check if function is currently running
+	if (is_running === 0){ //check if function is currently running	
 		(function myLoop(i) {
 			if (slap_amount>0){
 				is_running = 1; //set running flag
