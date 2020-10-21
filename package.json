@@ -1,0 +1,10 @@
+{
+	"name": "slap_arm",
+	"version": "0.0.1",
+	"description": "cum",
+	"dependencies": {
+		"express": "^4.17.1",
+		"onoff": "^6.0.1",
+		"socket.io-client": "^2.3.1"
+	}
+}
